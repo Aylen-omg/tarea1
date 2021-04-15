@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=casa
+comment1.params=color\ numPisos\ material\ numVentanas
+comment1.target=casa(java.lang.String,\ int,\ java.lang.String,\ int)
+comment10.params=
+comment10.target=java.lang.String\ getMaterial()
+comment11.params=numVentanas
+comment11.target=void\ setNumVentanas(int)
+comment12.params=
+comment12.target=int\ getNumVentanas()
+comment2.params=
+comment2.target=casa()
+comment3.params=
+comment3.target=java.lang.String\ presentar()
+comment4.params=
+comment4.target=java.lang.String\ contar()
+comment5.params=color
+comment5.target=void\ setColor(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getColor()
+comment7.params=numPisos
+comment7.target=void\ setNumPisos(int)
+comment8.params=
+comment8.target=int\ getNumPisos()
+comment9.params=material
+comment9.target=void\ setMaterial(java.lang.String)
+numComments=13
